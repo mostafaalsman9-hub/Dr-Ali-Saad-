@@ -1,0 +1,28 @@
+{
+  "name": "منصة الدكتور علي سعد",
+  "short_name": "د. علي سعد",
+  "description": "منصة تعليمية شاملة للسباحة والإنقاذ المائي",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f8fb",
+  "theme_color": "#1976b9",
+  "lang": "ar",
+  "dir": "rtl",
+  "categories": ["education", "sports"],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
